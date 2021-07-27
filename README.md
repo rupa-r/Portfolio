@@ -2,7 +2,7 @@
 
 <h4>Responsive Portfolio using only HTML5 || CSS </h4><br/>
 
-<h5>Phone View 👇🏼</h5><br/><br/>
+<h5>Phone View 👇🏼</h5><br/>
 ![phone](https://user-images.githubusercontent.com/85895496/127139289-c4e5d166-c8f7-4869-8332-b9f167b2d607.jpeg)
 
 <h5>Tablet View 👇🏼</h5><br/><br/>
