@@ -1,8 +1,8 @@
 # portfolio__project1
 
-Responsive Portfolio using only HTML5 || CSS
+Responsive Portfolio using only HTML5 || CSS <br/>
 
-Phone View 👇🏼
+Phone View 👇🏼<br/>
 ![phone](https://user-images.githubusercontent.com/85895496/127139289-c4e5d166-c8f7-4869-8332-b9f167b2d607.jpeg)
 
 Tablet View 👇🏼
