@@ -107,10 +107,6 @@ span {
     font-size: 25px;
 }
 
-i{
- padding:5px;
-}
-
 .contact__us__icon i:hover {
     color: #ffc107;
     cursor: pointer;
