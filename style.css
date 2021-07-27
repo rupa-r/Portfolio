@@ -105,7 +105,10 @@ span {
     color: white;
     gap: 15px;
     font-size: 25px;
-    padding:5px;
+}
+
+i{
+ padding:5px;
 }
 
 .contact__us__icon i:hover {
